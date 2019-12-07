@@ -6,10 +6,11 @@
  * @flow
  */
 
-import React, { Component } from "react";
-import { VictoryChart, VictoryAxis, VictoryArea, VictoryStack, VictoryScatter } from "victory-native";
+import React from 'react';
+import { Component } from 'react';
+import { VictoryChart, VictoryAxis, VictoryArea, VictoryStack, VictoryScatter } from 'victory-native';
 import moment from 'moment';
-import { Stylesheet, View } from 'react-native';
+import { View } from 'react-native';
 import { Defs, Stop, LinearGradient } from 'react-native-svg';
 
 function newDateString(day: number) {
