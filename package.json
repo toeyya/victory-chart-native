@@ -21,7 +21,7 @@
     "react-native-typescript-transformer": "^1.2.13",
     "ts-jest": "^24.2.0",
     "typescript": "^3.7.3",
-    "victory-native": "^33.0.1"
+    "victory-native": "^36.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
